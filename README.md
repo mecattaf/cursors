@@ -4,8 +4,7 @@ This is a fork of [Kaiz Khatri](https://github.com/ful1e5)'s [Bibata Cursors](ht
  
 Bibata is an **OpenSource**, compact, and material designed cursor set. This fork lets you generate custom cursors with your color(s) of choice. 
 
-## #tldr;
-How to use:
+## tldr;
 0) Git clone this repo
 1) Install dependencies on a Fedora [distrobox](https://github.com/89luca89/distrobox) or laptop
 2) Modify ./bitmapper/src/config.ts with your desired colors 
